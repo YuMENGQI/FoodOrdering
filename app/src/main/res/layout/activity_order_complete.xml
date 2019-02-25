@@ -64,7 +64,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="6dp"
-                android:text="收货地址：云南省 昆明市 云南农业大学12#000" />
+                android:text="收货地址：江西省省 南昌市 南昌大学科学技术学院12#000" />
 
         </LinearLayout>
 

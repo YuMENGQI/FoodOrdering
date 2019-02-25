@@ -102,7 +102,7 @@
             android:id="@+id/user_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="20171108yxc" />
+            android:text="20171108yy" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -137,7 +137,7 @@
             android:id="@+id/user_nickname"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Admin" />
+            android:text="Yangyang" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -317,7 +317,7 @@
             android:id="@+id/user_address"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="云南农业大学大数据学院" />
+            android:text="南昌大学科学技术学院" />
 
         <ImageView
             android:layout_width="wrap_content"

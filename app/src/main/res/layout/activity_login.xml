@@ -16,7 +16,7 @@
         android:textSize="24sp" />
 
 
-    <RelativeLayoutgit
+    <RelativeLayout
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15.0dip"
@@ -127,7 +127,7 @@
                 android:layout_toStartOf="@+id/Exchange"
                 android:contentDescription="@null" />
         </RelativeLayout>
-    </RelativeLayoutgit>
+    </RelativeLayout>
 
 
     <Button

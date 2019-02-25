@@ -2,6 +2,7 @@ package com.example.foodordering.application;
 
 import com.example.foodordering.bean.User;
 import com.example.foodordering.weather.util.AssetsCopyUtil;
+import com.facebook.stetho.Stetho;
 
 import org.litepal.LitePalApplication;
 
@@ -17,6 +18,8 @@ public class FoodOrderingApplication extends LitePalApplication {
     @Override
     public void onCreate() {
         super.onCreate();
+        Stetho.initializeWithDefaults(this);
+
         AssetsCopyUtil.copyEmbassy2Databases(this, "data/data/" + this.getPackageName() + "/databases/",
                 "location.db");
     }

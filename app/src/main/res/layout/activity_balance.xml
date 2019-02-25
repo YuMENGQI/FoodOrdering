@@ -69,7 +69,7 @@
                             android:padding="@dimen/spacing_micro"
                             android:textColor="@color/primary_text"
                             android:textSize="@dimen/font_normal"
-                            tools:text="杨雄超" />
+                            tools:text="杨洋" />
 
                         <TextView
                             android:id="@+id/sex"
@@ -101,7 +101,7 @@
                             android:padding="@dimen/spacing_micro"
                             android:textColor="@color/secondary_text"
                             android:textSize="@dimen/font_normal"
-                            tools:text="云南省昆明市盘龙区 云南农业大学" />
+                            tools:text="江西省南昌市青山湖区 南昌大学科学技术学院" />
 
                     </RelativeLayout>
 
